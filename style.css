@@ -1,0 +1,74 @@
+
+img{
+    width: 500px;
+    height: 400px;
+}
+body{
+    background-color: rgb(119, 94, 13);
+}
+.firstdiv{
+    border:solid rgba(80, 64, 19, 0.514);
+    padding-left:100px;
+    padding-top: 50px;
+    height:500px;
+    background-color: rgba(156, 134, 8, 0.808);
+    margin-left: 50px;
+}
+h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    text-anchor: middle;
+    background-color: rgba(10, 5, 1, 0.281);
+}
+
+.paragraph1{
+    color:rgb(7, 4, 14);
+    font-weight:bold;
+    font-size: 1.14rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, cursive;
+}
+
+
+li{
+    font-size: 1.07rem;
+    font-family:cursive;
+}
+#first{
+    background-color: rgb(187, 163, 86);
+}
+.h21{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, cursive;
+}
+#motto{
+    font-size: 1.06rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, cursive;
+}
+a{
+    color: rgb(26, 114, 85);
+}
+h4{
+    background-color: rgb(247, 247, 39);
+}
+.contact{
+    font-size: 2rem;
+    color:rgb(20, 66, 109) ;
+    font-family: cursive, sans-serif, 'Times New Roman', Times, serif;
+}
+.shoes{
+    width:400px;
+    height:300px;
+}
+.shoespage{
+    background-color: rgb(242, 245, 245);
+    color: black;
+}
+#description{
+  border: 400px;
+  
+}
+#main{
+    border: 5px solid black;
+    padding:40px;
+}
+
